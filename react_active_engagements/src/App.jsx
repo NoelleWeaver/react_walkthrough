@@ -1,4 +1,4 @@
-import TestComponent from './tutorial/05-forms/1-controlled-inputs'
+import TestComponent from './tutorial/05-forms/2-multiple-inputs'
 
 
 function App() {
