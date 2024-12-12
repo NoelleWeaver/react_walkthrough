@@ -1,4 +1,4 @@
-import TestComponent from './tutorial/04-conditional-rendering/3-show-hide'
+import TestComponent from './tutorial/05-forms/1-controlled-inputs'
 
 
 function App() {
